@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Calculator App V2</string>
+    <string name="t1">Enter 1st number</string>
+    <string name="t2">Enter 2nd number</string>
+    <string name="b1">Calculate</string>
+    <string name="r1">Addition</string>
+    <string name="r2">Subtraction</string>
+    <string name="r3">Multiplication</string>
+    <string name="r4">Division</string>
+    <string name="b2">Send Result</string>
+</resources>
